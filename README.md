@@ -18,7 +18,9 @@ Or install it yourself as:
     $ gem install rails-jwplayer
 
 And add this require statement to your `application.js` file:
-    //= require rails-jwplayer
+```ruby
+//= require rails-jwplayer
+```
 
 ## Configuration
 
