@@ -1,5 +1,5 @@
 # Rails::Jwplayer
-**rails-jwplayer** is JW Player for Rails, it provides a jwplayer_tag helper to create JW Player video plugin. Current version of JW Player is 7.10.5
+**rails-jwplayer** is JW Player for Rails, it provides a jwplayer_tag helper to create JW Player video plugin. Current version of JW Player is 7.11.0
 
 ## Installation
 
